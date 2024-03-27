@@ -1,11 +1,14 @@
 This is text that I do not want copied
 
-ERROR
+this will also include some integers like 994
 
-This is the text I want copied; 23002; [ICP None]
+add some arrays: [32, 2, 'idiot', [0, 'w'], True]
+
+ERROR: This is the text I want copied; 23002; [ICP None]
 >>>>>>
-this is additional text I want copied; 44433.44; 600033
+ERROR: this is additional text I want copied; 44433.44; 600033
 >>>>>>
 
 
 this is also the end of text I don't want
+this will also have the word error in it
