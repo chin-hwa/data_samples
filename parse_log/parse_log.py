@@ -19,5 +19,3 @@ for line in f:
 print(working_file.read())
 
 working_file.close()
-
-# Make some other changes.
